@@ -1,0 +1,44 @@
+{
+    "120805": {
+        "nombre": "Juana",
+        "mail": "mail1@biblio.edu.ar",
+        "contrasena": "contrasena1",
+        "estado": "activo"
+    },
+    "120806": {
+        "nombre": "Pedro",
+        "mail": "mail2@biblio.edu.ar",
+        "contrasena": "contrasena2",
+        "estado": "activo"
+    },
+    "120807": {
+        "nombre": "Tomas",
+        "mail": "mail3@biblio.edu.ar",
+        "contrasena": "contrasena3",
+        "estado": "activo"
+    },
+    "120808": {
+        "nombre": "Lucas",
+        "mail": "mail4@biblio.edu.ar",
+        "contrasena": "contrasena4",
+        "estado": "activo"
+    },
+    "120809": {
+        "nombre": "Santi",
+        "mail": "mail5@biblio.edu.ar",
+        "contrasena": "contrasena5",
+        "estado": "activo"
+    },
+    "120810": {
+        "nombre": "Alfonso",
+        "mail": "alfonso @biblio.edu.ar",
+        "contrasena": "Brasil2014/",
+        "estado": "activo"
+    },
+    "120811": {
+        "nombre": "Martin",
+        "mail": "martin@biblio.edu.ar",
+        "contrasena": "Holas123\"",
+        "estado": "activo"
+    }
+}

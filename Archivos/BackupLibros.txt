@@ -1,0 +1,20 @@
+001;IT;Stephen King;8;Terror
+002;El exorcista;William Peter Blatty;5;Terror
+003;Drácula;Bram Stoker;6;Terror
+004;El resplandor;Stephen King;8;Terr
+005;Orgullo y prejuicio;Jane Austen;7;Romance
+006;Bajo la Misma Estrella;John Green;7;Romance
+007;Cumbres borrascosas;Emily Brontë;6;Romance
+008;Posdata: Te amo;Cecelia Ahern;7;Romance
+009;Los juegos del hambre;Suzanne Collins;8;Aventura
+010;La isla del tesoro;Robert Louis Stevenson;10;Aventura
+011;El Código Da Vinci;Dan Brown;5;Misterio
+012;Jurassic Park;Michael Crichton;7;Ciencia Ficción
+013;Expreso Oriente;Agatha Christie;9;Misterio
+014;El Sabueso;Arthur Conan Doyle;7;Misterio
+015;La chica del tren;Paula Hawkins;0;Misterio
+016;Los hombres que no amaban;Stieg Larsson;9;Misterio
+017;El Señor de los Anillos;J.R.R. Tolkien;9;Fantasía
+018;Harry Potter;J.K. Rowling;8;Fantasía
+019;Crónica del asesino de reyes;Patrick Rothfuss;8;Fantasía
+020;Juego de tronos;George R.R. Martin;10;Fantasía

@@ -1,0 +1,7 @@
+matriz_admin = {
+    1206517: {"nombre": "Maximo", "correo": "mail1@biblio.edu.ar", "contrasena": "46961482"},
+    1209397: {"nombre": "Nicolas", "correo": "mail2@biblio.edu.ar", "contrasena": "45284725"},
+    1209585: {"nombre": "Toto", "correo": "mail3@biblio.edu.ar", "contrasena": "48011090"},
+    1208937: {"nombre": "Luis", "correo": "mail4@biblio.edu.ar", "contrasena": "46701844"},
+    1209160: {"nombre": "Cesar", "correo": "mail5@biblio.edu.ar", "contrasena": "42656599"},
+}
